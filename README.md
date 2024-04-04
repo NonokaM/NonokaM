@@ -14,20 +14,24 @@
 
 ### Languages and Tools
 
-#### front
+#### Frontend
 [![My Skills](https://skillicons.dev/icons?i=react)](https://react.dev/)
 [![My Skills](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
 [![My Skills](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
 [![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/ja/docs/Web/CSS/Reference)
 [![My Skills](https://skillicons.dev/icons?i=materialui)](https://mui.com/)
-
-#### backend
+#### Backend
 [![My Skills](https://skillicons.dev/icons?i=go)](https://go.dev)
 [![My Skills](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com/)
-
+### DevOps
+[![My Skills](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
+[![My Skills](https://skillicons.dev/icons?i=terraform)](https://www.terraform.io/)
+[![My Skills](https://skillicons.dev/icons?i=githubactions)](https://github.com/features/actions)
+[![My Skills](https://skillicons.dev/icons?i=vercel)](https://vercel.com/)
 #### tools
 [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/)
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
+[![My Skills](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
 
 <!--
 **NonokaM/NonokaM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
