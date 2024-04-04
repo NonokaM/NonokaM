@@ -18,7 +18,7 @@
 [![My Skills](https://skillicons.dev/icons?i=react)](https://react.dev/)
 [![My Skills](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
 [![My Skills](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
-[#![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/ja/docs/Web/CSS/Reference)
+[![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/ja/docs/Web/CSS/Reference)
 ##### Backend
 [![My Skills](https://skillicons.dev/icons?i=go)](https://go.dev)
 [![My Skills](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com/)
