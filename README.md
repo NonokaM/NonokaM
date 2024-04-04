@@ -1,3 +1,8 @@
+ <p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=Yuma-Satake" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Yuma-Satake">
+ </p>
+
 ### Hi there 👋
 
 ## 📈 Status
