@@ -15,12 +15,16 @@
 ### Languages and Tools
 
 #### front
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,materialui,js,ts,react,nextjs)](https://skillicons.dev)
 
 #### backend
+[![My Skills](https://skillicons.dev/icons?i=go,python,fastapi)](https://skillicons.dev)
 
 #### tools
+[![My Skills](https://skillicons.dev/icons?i=figma,github,)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=go)](https://go.dev)
+[![My Skills](https://skillicons.dev/icons?i=go)](https://go.dev)
 
 <!--
 **NonokaM/NonokaM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
