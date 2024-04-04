@@ -2,17 +2,10 @@
   <img src="https://komarev.com/ghpvc/?username=NonokaM" />
  </p>
 
- 
-<hr>
+<h1 align="center">Hi, I'm NonokaM👋</h1>
 
 
-## Hi there 👋
-
-
-<hr>
-
-
-### 📈 Status
+### Status
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NonokaM&layout=compact&show_icons=true" />
