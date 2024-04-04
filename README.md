@@ -7,6 +7,8 @@
 
 ### 💖 Languages and Tools
 #### Frontend
+<h3 style="color: blue;">Frontend</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=react)](https://react.dev/)
 [![My Skills](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
 [![My Skills](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
