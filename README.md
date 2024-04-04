@@ -1,11 +1,7 @@
  <p align="right"> 
   <img src="https://komarev.com/ghpvc/?username=NonokaM" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=NonokaM.visitor-badge">
  </p>
-
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=NonokaM)
-
+ 
 
 ### Hi there 👋
 
