@@ -4,9 +4,10 @@
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NonokaM&layout=compact&show_icons=true" />
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?NonokaM=anuraghazra&show_icons=true&theme=transparent)
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=NonokaM" />
 </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?NonokaM=anuraghazra&show_icons=true&theme=transparent)
 [![trophy](https://github-profile-trophy.vercel.app/?username=NonokaM&margin-w=5)](https://github.com/NonokaM/)
 
 <!--
