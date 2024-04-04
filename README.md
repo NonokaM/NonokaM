@@ -1,8 +1,12 @@
  <p align="right"> 
   <img src="https://komarev.com/ghpvc/?username=NonokaM" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=NonokaM">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=NonokaM.visitor-badge">
  </p>
- ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=NonokaM.visitor-badge)
+
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=NonokaM)
+
+
 ### Hi there 👋
 
 ## 📈 Status
