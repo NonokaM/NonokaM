@@ -3,12 +3,17 @@
  </p>
 
 <h1 align="center">Hi, I'm NonokaM👋☺️</h1>
+<br>
+
+ - 👩‍🎓 I am a student engineer who loves web development.
+ - 🌱 I’m currently learning go!
+ - 🕊️ How to reach me: [Twitter](https://twitter.com/home)
+
+<br><hr>
 
 
+<h2>🫶 Languages and Tools</h2>
 
-<hr>
-
-### 🫶 Languages and Tools
 ##### Frontend
 [![My Skills](https://skillicons.dev/icons?i=react)](https://react.dev/)
 [![My Skills](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
@@ -30,7 +35,7 @@
 
 <hr>
 
-### 🏃‍♀️ Activity
+<h2>🏃‍♀️ Activity</h2>
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NonokaM&layout=compact&show_icons=true" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=NonokaM" />
