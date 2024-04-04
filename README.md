@@ -2,16 +2,15 @@
   <img src="https://komarev.com/ghpvc/?username=NonokaM" />
  </p>
 
-<h1 align="center">Hi, I'm NonokaM👋☺️</h1>
-<br>
+
+<h1 align="center">Hi, I'm NonokaM👋☺️</h1><br>
 
  - 👩‍🎓 I am a student engineer who loves web development.
  - 🌱 I’m currently learning go!
  - 🕊️ How to reach me: [Twitter](https://twitter.com/home)
 
-<br><hr>
 
-
+<hr>
 <h2>🫶 Languages and Tools</h2>
 
 ##### Frontend
@@ -33,15 +32,14 @@
 [![My Skills](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
 [![My Skills](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
 
-<hr>
 
+<hr>
 <h2>🏃‍♀️ Activity</h2>
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NonokaM&layout=compact&show_icons=true" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=NonokaM" />
 </p>
 
-<hr>
 
 <!--
 **NonokaM/NonokaM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
