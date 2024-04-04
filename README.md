@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=NonokaM" />
  </p>
 
-<h1 align="center">Hi, I'm NonokaM👋</h1>
+<h1 align="center">Hi, I'm NonokaM👋☺️</h1>
 
 
 ### Status
@@ -19,7 +19,6 @@
 [![My Skills](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
 [![My Skills](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
 [![My Skills](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/ja/docs/Web/CSS/Reference)
-[![My Skills](https://skillicons.dev/icons?i=materialui)](https://mui.com/)
 #### Backend
 [![My Skills](https://skillicons.dev/icons?i=go)](https://go.dev)
 [![My Skills](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com/)
