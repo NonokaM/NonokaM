@@ -8,7 +8,7 @@
 
  - 👩‍🎓 I am a student engineer who loves web development.
  - 🌱 I’m currently learning go!
- - 🕊️ How to reach me: [Twitter](https://twitter.com/home)
+ - 🕊️ How to reach me: [Twitter](https://twitter.com/irdx_m)
 
 
 <hr>
